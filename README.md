@@ -41,4 +41,3 @@ While this visualization provides a strong foundation for understanding global e
 - **Leaflet.js** - Renders interactive map layers and visualizations.
 - **D3.js** - Fetches and processes earthquake data from the USGS API.
 - **GeoJSON** - Data format for geospatial mapping.
-- **OpenStreetMap & Carto** - Provides different map tile layers for enhanced visualization.
